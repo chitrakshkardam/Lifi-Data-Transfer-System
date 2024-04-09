@@ -27,3 +27,6 @@ This project aims to implement a Li-Fi data transmission system using Python and
 
 Implementing Li-Fi technology for fast data access in laptops, smartphones, and tablets within confined areas.
 Exploring potential applications of Li-Fi in various industries, such as healthcare, transportation, and smart cities.
+
+
+![image](https://github.com/chitrakshkardam/Lifi-Data-Transfer-System/assets/117617336/dd0fde08-932e-4011-92fc-23ce70be7675)
